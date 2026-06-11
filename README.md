@@ -1,5 +1,5 @@
 <!-- Animated banner (capsule-render) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&section=header&text=Harsh%20Thorat&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Robotics%20%E2%80%A2%20Embedded%20%26%20FPGA%20%E2%80%A2%20AI%20Engineering&descSize=20&descAlignY=75" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6&amp;height=200&amp;section=header&amp;text=Harsh%20Thorat&amp;fontSize=60&amp;fontColor=ffffff&amp;animation=fadeIn&amp;desc=Robotics%20%E2%80%A2%20Embedded%20%26%20FPGA%20%E2%80%A2%20AI%20Engineering&amp;descSize=20&amp;descAlignY=75" width="100%" />
 
 <div align="center">
 
@@ -23,10 +23,9 @@ focus:
   - Embedded systems & FPGA design (Verilog/VHDL, real-time firmware)
   - AI engineering (reinforcement learning, computer vision, GenAI/RAG)
 currently_building:
-  - LLM Twin — a GenAI system with a full RAG pipeline (FastAPI, vector DBs, LLMOps)
-  - Hardware accelerators for quantized neural-network inference
+  - An AI hardware roadmap — from quantized-inference primitives up to accelerators
+  - Bare-metal firmware on a newly arrived STM32
 happiest_when: the firmware, the architecture, and the algorithm all have to be right at once
-fun_fact: My robots map rooms so I don't have to vacuum them myself
 ```
 
 ## 🛠️ Tech Stack
@@ -42,6 +41,7 @@ fun_fact: My robots map rooms so I don't have to vacuum them myself
 ![FPGA](https://img.shields.io/badge/FPGA%20%7C%20Quartus-1488C6?style=for-the-badge&logo=intel&logoColor=white)
 ![Gazebo](https://img.shields.io/badge/Gazebo-F58113?style=for-the-badge&logo=gazebo&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![Jetson Nano](https://img.shields.io/badge/Jetson%20Nano-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 </div>
@@ -70,26 +70,14 @@ fun_fact: My robots map rooms so I don't have to vacuum them myself
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HarshThorat239&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshThorat239&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=HarshThorat239&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true" height="165" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshThorat239&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8" height="165" alt="Top languages" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=HarshThorat239&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-</div>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarshThorat239/HarshThorat239/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HarshThorat239/HarshThorat239/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/HarshThorat239/HarshThorat239/output/github-snake-dark.svg" alt="Snake eating my contributions" />
-</picture>
+<img src="https://streak-stats.demolab.com?user=HarshThorat239&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub streak" />
 
 </div>
 
 <!-- Animated footer (capsule-render) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6&amp;height=120&amp;section=footer" width="100%" />
