@@ -1,5 +1,5 @@
 <!-- Animated banner (capsule-render) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6&amp;height=200&amp;section=header&amp;text=Harsh%20Thorat&amp;fontSize=60&amp;fontColor=ffffff&amp;animation=fadeIn&amp;desc=Robotics%20%E2%80%A2%20Embedded%20%26%20FPGA%20%E2%80%A2%20AI%20Engineering&amp;descSize=20&amp;descAlignY=75" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6&amp;height=200&amp;section=header&amp;text=Harsh%20Thorat&amp;fontSize=60&amp;fontColor=ffffff&amp;animation=fadeIn&amp;desc=Robotics%20%E2%80%A2%20Embedded%20%2B%20FPGA%20%E2%80%A2%20AI%20Engineering&amp;descSize=20&amp;descAlignY=75" width="100%" />
 
 <div align="center">
 
@@ -13,20 +13,39 @@
 
 ## 🤖 About Me
 
-```yaml
-name: Harsh Thorat
-location: Auckland, New Zealand 🇳🇿
-education: BE (Hons) Computer Systems Engineering — University of Auckland
-honours: First Class, graduating September 2026
-focus:
-  - Robotics & autonomous systems (ROS2, SLAM, Nav2)
-  - Embedded systems & FPGA design (Verilog/VHDL, real-time firmware)
-  - AI engineering (reinforcement learning, computer vision, GenAI/RAG)
-currently_building:
-  - An AI hardware roadmap — from quantized-inference primitives up to accelerators
-  - Bare-metal firmware on a newly arrived STM32
-happiest_when: the firmware, the architecture, and the algorithm all have to be right at once
-```
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=8B5CF6&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Computer+Systems+Engineer;Robotics+%E2%80%A2+Embedded+%E2%80%A2+FPGA+%E2%80%A2+AI;Where+firmware%2C+architecture+%26+algorithms+meet" alt="Typing intro" />
+
+</div>
+
+> Computer Systems Engineering graduate **(First Class Honours, University of Auckland, Sep 2026)** who builds at the intersection of **hardware and intelligence** — where the firmware, the architecture, and the algorithm all have to be right at once.
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**🎓 Background**
+- 📍 Auckland, New Zealand 🇳🇿
+- 🏛️ BE (Hons) Computer Systems Engineering
+- 🥇 First Class Honours — Univ. of Auckland
+- 🎯 At my best owning hard problems end-to-end
+
+</td>
+<td valign="top" width="50%">
+
+**🔭 What I Do**
+- 🤖 Robotics & autonomous systems — ROS2, SLAM, Nav2
+- 🔧 Embedded & FPGA — Verilog/VHDL, real-time firmware
+- 🧠 AI engineering — RL, computer vision, GenAI/RAG
+
+</td>
+</tr>
+</table>
+
+**🌱 Currently building**
+- An **AI hardware roadmap** — from quantized-inference primitives up to accelerators
+- Bare-metal firmware on a newly arrived **STM32**
 
 ## 🛠️ Tech Stack
 
