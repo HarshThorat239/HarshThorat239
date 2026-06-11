@@ -98,5 +98,17 @@
 
 </div>
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarshThorat239/HarshThorat239/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HarshThorat239/HarshThorat239/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/HarshThorat239/HarshThorat239/output/github-snake-dark.svg" alt="Snake eating my contributions" />
+</picture>
+
+</div>
+
 <!-- Animated footer (capsule-render) -->
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6&amp;height=120&amp;section=footer" width="100%" />
